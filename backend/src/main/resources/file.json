@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "timestamp" : "2023-03-19T00:58:26.571Z",
+  "threats": [{
+    "id": 1,
+    "name": "Sql Injection",
+    "severity": "High",
+    "source": "https:://www.google.com",
+    "potentialImpact": 0.3,
+    "deviceType": "Mobile",
+    "records": []
+  }]
+}
